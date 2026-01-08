@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use SRAL, please cite it as below."
+authors:
+  - family-names: "Sharan"
+    given-names: "Aakash"
+title: "SRAL: A Framework for Evaluating Agentic AI Architectures"
+version: 1.0.0
+doi: 10.5281/zenodo.18049753
+date-released: 2025-12-24
+url: "https://doi.org/10.5281/zenodo.18049753"
